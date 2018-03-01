@@ -36,6 +36,6 @@ Farthest points: 5 7
 10  12.000000  4.0000
 
 
-![Screenshot](../demo.png)
+![Screenshot](https://github.com/iamsiter/FastMap-algorithm-in-Python/blob/master/demo.png)
 
 
