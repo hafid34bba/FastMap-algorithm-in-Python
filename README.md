@@ -11,8 +11,8 @@ Goals:	1. efficient mapping of N given objects (N is large)
 
 http://repository.cmu.edu/cgi/viewcontent.cgi?article=1577&context=compsci
 
-Outputs:
-Execution & Outputs
+
+Execution & Outputs::
 
 The code can be run directly using python with input file in same directory.
 
@@ -34,6 +34,8 @@ Farthest points: 5 7
 8   1.500000  1.5625
 9   2.458333  1.0000
 10  12.000000  4.0000
+
+
 
 
 ![Screenshot](https://github.com/iamsiter/FastMap-algorithm-in-Python/blob/master/demo.png)
